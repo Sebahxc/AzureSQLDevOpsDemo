@@ -60,4 +60,4 @@ jobs:
         uses: azure/sql-action@v2
         with:
           connection-string: "Server=localhost;Initial Catalog=testingDB;User ID=sa;Password=P@ssw0rd;"  # the local connection string
-          path: './TestsSQLServer/myTests/demoExecAzureSQL.sql' # the tsqlt test command
+          path: './TestsSQLServer/myTests/seba.sql' # the tsqlt test command
