@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[demoTest]
+CREATE TABLE [dbo].[prueba]
 (
     [emp_id] INT NOT NULL PRIMARY KEY IDENTITY,
     [first_name] NVARCHAR(100) NOT NULL,
